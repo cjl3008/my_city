@@ -1,0 +1,402 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="coffee_shops">Coffee Shops</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="kid_friendly_places">Kid-friendly places</string>
+    <string name="parks">Parks</string>
+    <string name="shopping_centres">Shopping Centres</string>
+    <string name="recommended">Recommended</string>
+    <string name="colon">": "</string>
+    <string name="dash">" - "</string>
+    <string name="space">" "</string>
+    <string name="java_jive">Java Jive</string>
+    <string name="java_jive_content"><![CDATA[
+        Java Jive is more than just a place to get a cup of coffee; it\'s an experience.
+        From the moment you walk in, you\'re greeted by the warm aroma of freshly roasted coffee beans.
+        The cozy atmosphere, with its soft lighting and comfortable seating, invites you to settle in
+        and savor your coffee.
+        <br><br>
+        In addition to coffee, Aroma Espresso Bar also offers a variety of pastries and light snacks.
+        The perfect complement to your coffee, these treats are made with fresh, high-quality ingredients.
+        <br><br>
+        Whether you\'re looking for a place to catch up with friends, work on your laptop, or simply relax
+        and enjoy a good cup of coffee, Aroma Espresso Bar is the perfect spot.
+        <br><br>
+        <span style="color:#666600"><small>Address: 123 Main Street, Anytown, USA<br>
+        Phone: (555) 555-5555<br>
+        Hours: Mon-Fri: 6am-10pm, Sat-Sun: 7am-11pm</small></span>
+        ]]>
+    </string>
+    <string name="brew_haven">Brew Haven</string>
+    <string name="brew_haven_content"><![CDATA[
+        Nestled amidst the bustling cityscape, Brew Haven stands as an oasis of tranquility, its warm,
+        inviting ambiance beckoning weary souls seeking respite from the urban cacophony. Stepping
+        through the threshold, one is immediately enveloped by the rich aroma of freshly roasted
+        coffee beans, a tantalizing prelude to the sensory delights that await within.
+        <br><br>
+        Dressed in rustic wooden accents and adorned with vintage coffee memorabilia, Brew Haven
+        exudes a timeless charm that transports patrons to a bygone era, a sanctuary where time seems
+        to slow its relentless pace. Soft, dappled sunlight streams through the expansive windows,
+        casting a gentle glow upon the cozy seating arrangements, inviting leisurely conversations
+        and moments of quiet contemplation.
+        <br><br>
+        Beyond its liquid offerings, Brew Haven also tempts the palate with an array of delectable
+        pastries and artisanal sandwiches, each crafted with fresh, locally sourced ingredients.
+        The aroma of freshly baked bread mingles with the scent of coffee, creating an irresistible
+        symphony of culinary delights that awakens the senses and entices even the most discerning
+        palates.
+        <br><br>
+        <span style="color:#666600"><small>Address: 1000 Sky High Avenue, Anytown, USA<br>
+        Phone: (123) 456-7890</small></span>
+        ]]>
+    </string>
+    <string name="cosmic_cup">Cosmic Cup Coffee House</string>
+    <string name="cosmic_cup_content"><![CDATA[
+        Perched amidst the swirling cosmos, the Cosmic Cup Coffee House beckons intrepid caffeine
+        enthusiasts with its celestial charm. Its ethereal glow, visible from distant galaxies,
+        draws travelers across the vast expanse of space, promising a cup of coffee unlike any
+        they\'ve ever tasted.
+        <br><br>
+        The menu at the Cosmic Cup Coffee House is a testament to the limitless possibilities of
+        interstellar coffee exploration. From the invigorating Orion Nebula Latte, infused with the
+        vibrant energy of the nebula itself, to the soothing Andromeda Galaxy Mocha, laced with the
+        tranquility of the galaxy\'s swirling arms, each beverage is an adventure in flavor.
+        <br><br>
+        Whether seeking a moment of cosmic tranquility or a caffeine-fueled adventure, the Cosmic
+        Cup Coffee House is an interstellar oasis, a place where the wonders of the universe
+        converge in every cup.
+        ]]>
+    </string>
+    <string name="culinary_creations">Culinary Creations</string>
+    <string name="culinary_creations_content"><![CDATA[
+        Culinary Creations is an exquisite dining experience that tantalizes the taste buds and
+        transports guests to a realm of culinary artistry. Nestled within a charming historic
+        building, the restaurant exudes an aura of elegance and sophistication, with its warm
+        lighting, plush velvet seating, and captivating décor.
+        <br><br>
+        As you step through the grand entrance, you are greeted by a symphony of tantalizing aromas
+        wafting from the kitchen, beckoning you to embark on a culinary adventure. The attentive
+        staff, clad in sleek black attire, welcomes you with warm smiles and guides you to your
+        table, where pristine white linens await.
+        <br><br>
+        Glancing over the menu, you are captivated by an array of culinary creations that defy
+        expectations and showcase the chef\'s boundless creativity. Each dish is a masterpiece,
+        meticulously crafted from the finest seasonal ingredients, sourced from local farms and
+        purveyors. The artistry extends beyond the plate, as each dish is presented with a flair for
+        the dramatic, transforming the dining experience into an immersive spectacle.
+        <br><br>
+        Culinary Creations is more than just a restaurant; it is an immersive culinary experience
+        that elevates dining to an art form. It is a place where creativity knows no bounds, where
+        flavors come alive, and where guests embark on a journey of culinary discovery.
+        ]]>
+    </string>
+    <string name="time_warp">The Time Warp Tavern</string>
+    <string name="time_warp_content"><![CDATA[
+        <i>Cuisine: A blend of classic and futuristic dishes</i>
+        <br><br>
+        Ever wanted to experience the culinary delights of different eras all in one place? The Time Warp
+        Tavern is the perfect spot for you. This unique restaurant takes you on a journey through time with
+        its eclectic menu and retro ambiance.
+        <br><br>
+        Step through the doors of The Time Warp Tavern and be transported to a bygone era. The décor is a
+        delightful mix of vintage furnishings and futuristic accents, creating a truly immersive atmosphere.
+        As you settle into your booth, you\'ll be greeted by a friendly server dressed in period attire.
+        <br><br>
+        The menu at The Time Warp Tavern is a culinary adventure in itself. It features classic dishes from
+        different eras, reimagined with a modern twist. Start your meal with a hearty bowl of Stone Age Stew,
+        a rich and flavorful concoction that has been passed down through generations. For your main course,
+        indulge in the Medieval Meatloaf, a savory masterpiece that will satisfy your taste buds. And for
+        dessert, don\'t miss the Future Froyo, a refreshing treat that\'s out of this world.
+        <br><br>
+        While you savor your meal, enjoy the live entertainment provided by the resident time travelers.
+        From jazz bands to holographic dancers, there\'s something for everyone to enjoy.
+        <br><br>
+        The Time Warp Tavern is more than just a restaurant; it\'s an experience that will leave you wanting
+        more. So gather your friends and family, and prepare to embark on a culinary adventure through time!
+        <br><br>
+        <span style="color:#666600"><small>Address: 234 Yesterday Lane, Anytown, USA<br>
+        Phone: (555) 555-5555<br>
+        Hours: Mon-Fri: 6am-10pm, Sat-Sun: 7am-11pm</small></span>
+        ]]>
+    </string>
+    <string name="sakura_heaven">Sakura Haven</string>
+    <string name="sakura_heaven_content"><![CDATA[
+        Nestled amidst the bustling cityscape, Sakura Haven stands as an oasis of tranquility, its warm and
+        inviting ambiance beckoning weary souls seeking respite from the urban cacophony. Stepping through
+        the threshold, one is immediately enveloped by the delicate aroma of freshly steamed rice and the
+        tantalizing notes of simmering spices, a prelude to the culinary delights that await within.
+        <br><br>
+        Adorned with traditional Japanese décor, including intricate shoji screens and delicate cherry
+        blossom motifs, Sakura Haven exudes an aura of serene elegance. Soft, warm lighting casts a gentle
+        glow upon the polished wooden tables, creating an intimate and inviting atmosphere. The rhythmic
+        clatter of chopsticks against plates mingles with the hushed conversations of patrons, creating a
+        symphony of culinary and social harmony.
+        <br><br>
+        At the heart of Sakura Haven lies its passionate team of chefs, culinary artisans who meticulously
+        craft each dish with precision and reverence for traditional Japanese techniques. Their expertise
+        extends beyond the mechanics of cooking, encompassing a deep understanding of the intricate balance
+        of flavors, textures, and aromas that define Japanese cuisine.
+        <br><br>
+        The menu at Sakura Haven is a testament to the culinary artistry of Japan, offering a curated
+        selection of classic dishes alongside innovative creations that showcase the versatility of
+        Japanese cuisine. From the delicate finesse of sushi and sashimi to the hearty flavors of ramen
+        and donburi, each dish is a symphony of flavors, textures, and aromas that transport guests to the
+        heart of Japan.
+        <br><br>
+        <span style="color:#666600"><small>Address: 123 Blossom Street, Anytown, USA<br>
+        Phone: (555) 555-5555<br>
+        Hours: Mon-Fri: 6am-10pm, Sat-Sun: 7am-11pm</small></span>
+        ]]>
+    </string>
+    <string name="senor_taco">Senor Taco</string>
+    <string name="senor_taco_content"><![CDATA[
+        Señor Taco is a lively restaurant that offers a taste of authentic Mexican cuisine in a vibrant and
+        festive atmosphere. The restaurant is decorated with colorful murals, papel picado banners, and
+        hanging piñatas, creating an inviting and energetic space. The walls are adorned with photos of
+        famous Mexican celebrities and landmarks, further immersing guests in the rich culture of Mexico.
+        <br><br>
+        The aroma of freshly grilled meats, sizzling fajitas, and simmering sauces fills the air, enticing
+        guests even before they step through the doors. The restaurant\'s open kitchen allows diners to watch
+        as the chefs expertly prepare their meals, adding to the lively atmosphere.
+        <br><br>
+        The menu at Señor Taco features a wide variety of traditional Mexican dishes, including tacos,
+        burritos, enchiladas, and quesadillas. All of the dishes are made with fresh, high-quality
+        ingredients, and they are bursting with flavor. The restaurant also offers a selection of Mexican
+        beers and margaritas, perfect for enjoying with a meal or simply relaxing with friends.
+        <br><br>
+        Señor Taco is a great place to go for a fun and festive night out. The lively atmosphere, delicious
+        food, and friendly service are sure to please everyone at the table.
+        <br><br>
+        <span style="color:#666600"><small>Address: 123 Fiesta Street, Anytown, USA<br>
+        Phone: (555) 555-5555<br>
+        Hours: Mon-Fri: 6am-10pm, Sat-Sun: 7am-11pm</small></span>
+        ]]>
+    </string>
+    <string name="ocean_pearl">Ocean Pearl</string>
+    <string name="ocean_pearl_content"><![CDATA[
+        Nestled along the picturesque coastline, Ocean Pearl beckons seafood enthusiasts with its promise
+        of culinary excellence and breathtaking ocean views. The restaurant\'s elegant yet inviting ambiance
+        sets the stage for an unforgettable dining experience, while its commitment to freshness and
+        sustainability ensures that every dish is a symphony of flavors and textures.
+        <br><br>
+        Upon entering Ocean Pearl, guests are greeted by a spacious dining area adorned with nautical accents,
+        expansive windows that frame the mesmerizing panorama of the ocean, and a soothing symphony of gentle
+        waves crashing against the shore. The décor, with its subtle blend of natural elements and modern
+        touches, creates an atmosphere of refined elegance yet exudes a sense of casual comfort.
+        <br><br>
+        The culinary team at Ocean Pearl takes pride in sourcing the freshest seafood directly from local
+        fishermen, ensuring that each dish is prepared with ingredients that have journeyed from the sea
+        to the table in a matter of hours. Their expertise lies in showcasing the natural flavors of the
+        ocean\'s bounty, employing a variety of cooking techniques that enhance the inherent goodness
+        of the seafood without overpowering it.
+        <br><br>
+        The menu at Ocean Pearl is a delightful exploration of the ocean\'s culinary treasures, offering a
+        curated selection of classic seafood dishes alongside innovative creations that showcase the
+        versatility of marine cuisine. From the delicate finesse of seared scallops and pan-fried fish to
+        the hearty flavors of steamed lobster and cioppino, each dish is a testament to the chefs\' mastery
+        of seafood.
+        <br><br>
+        Beyond its culinary offerings, Ocean Pearl also tempts the palate with an array of carefully curated
+        wines, ensuring that each sip complements the flavors of the seafood. The restaurant\'s extensive
+        wine list features both local and international selections, offering guests the opportunity to
+        embark on a journey through the world of wine while savoring the freshest seafood delicacies.
+        <br><br>
+        Whether seeking a romantic dinner for two or a lively gathering with friends and family, Ocean
+        Pearl offers an exceptional seafood dining experience that will leave a lasting impression. The
+        breathtaking ocean views, impeccable service, and commitment to sustainable seafood practices are
+        sure to delight and satisfy even the most discerning palates.
+        <br><br>
+        <span style="color:#666600"><small>Address: 123 Coastal Blvd, Anytown, USA<br>
+        Phone: (555) 555-5555</small></span>
+        ]]>
+    </string>
+    <string name="toy_shop">Toy shop</string>
+    <string name="toy_shop_content"><![CDATA[
+        A toy shop is a haven for children\'s (and some grown-ups\') imaginations, bursting with endless
+        possibilities for fun and adventure. Imagine shelves upon shelves overflowing with colorful delights,
+        from cuddly stuffed animals and playful action figures to intricate construction sets and dazzling
+        board games. The air buzzes with excited chatter as kids race through aisles, their eyes wide with
+        wonder and hands itching to grasp every treasure they encounter.
+        <br><br>
+        Here\'s a closer look at what you might find inside a typical toy shop:
+        <br><br>
+        \u25CF <b>Action Alley:</b> Rows of superheroes, pirates, knights, and fantastical creatures stand at attention,
+        ready to embark on countless imaginary quests.
+        <br><br>
+        \u25CF <b>Dollhouse Domain:</b> Miniature worlds unfold, filled with tiny furniture, families, and pets, waiting
+        to be brought to life through storytelling and roleplay.
+        <br><br>
+        \u25CF <b>Building Block Bonanza:</b> Towers of colorful bricks invite budding architects and engineers to
+        construct magnificent creations, limited only by their imagination.]]>
+    </string>
+    <string name="game_centre">Game centre</string>
+    <string name="game_centre_content"><![CDATA[
+        <span style="color:#FF0033"><b>Stepping into the Buzz: Atmosphere, Games, and Social Vibes of a Game Centre</b></span>
+        <br><br>
+        \u25CF <b>Sensory overload in the best way:</b> Arcade classics like Pac-Man and air hockey ping
+        alongside the latest VR experiences and immersive racing simulators. Think flashing lights, pumping
+        music, and the constant hum of joystick controls.
+        <br><br>
+        \u25CF <b>Something for everyone:</b> From retro pixelated delights to cutting-edge virtual reality
+        adventures, game centres offer a smorgasbord of genres and experiences. Classic arcade games, rhythm
+        games, racing simulators, first-person shooters, puzzle games – you name it, they probably have it.
+        <br><br>
+        \u25CF <b>A breeding ground for friendly competition:</b> Whether it\'s battling it out in air hockey or
+        teaming up for a co-op adventure, game centres offer a platform for social interaction and bonding over
+        shared goals.
+        <br><br>
+        \u25CF <b>A sense of community:</b> Game centres can feel like havens for gamers, with a shared language
+        and understanding that transcends age and background. It\'s a place where you can connect with others who
+        share your passion for play.
+        ]]>
+    </string>
+    <string name="playground">Outdoor playground</string>
+    <string name="playground_content"><![CDATA[
+        A vibrant canvas of childhood joy, the playground pulsates with laughter and the boundless energy of
+        young imaginations. Sunlight paints the scene in warm hues, dappled by the leafy canopy of towering
+        trees that stand like benevolent giants, their branches outstretched in silent applause. Beneath their
+        watchful gaze, a symphony of giggles and squeals erupts from a vibrant jungle gym, its colorful towers
+        and ladders scaled with the fearless determination of tiny adventurers.
+        <br><br>
+        A swing set sways gently in the breeze, each arc a pendulum carrying squeals of delight, as little
+        astronauts soar through the sky, propelled by invisible jets of pure imagination. Nearby, a sandbox
+        whispers secrets of faraway lands, castles molded with tiny hands, rivers carved with sticks, and
+        seashells transformed into glistening treasure.
+        <br><br>
+        On the periphery, a merry-go-round spins a kaleidoscope of color, painted ponies prancing under the
+        watchful gaze of watchful parents. Each revolution brings a fresh chorus of \"Faster! Faster!\" echoing
+        through the air, a joyous chant that weaves through the playground\'s vibrant tapestry.]]>
+    </string>
+    <string name="library">Library</string>
+    <string name="library_content"><![CDATA[
+        There are many reasons why libraries are wonderful for kids! Here are just a few highlights:
+        <br><br>
+        Libraries offer a much wider and more diverse selection of books than kids might have access to at home.
+        This allows them to explore different genres, interests, and learning styles, potentially sparking a
+        lifelong love of reading.
+        <br><br>
+        Reading aloud to young children, which often happens during library visits, is crucial for early literacy
+        development. It fosters a positive association with books and strengthens language skills.
+        <br><br>
+        Libraries are not just about books anymore! They often offer educational resources like computers, DVDs,
+        educational games, and even museum passes. This provides kids with diverse learning opportunities beyond
+        traditional academics.
+        <br><br>
+        Books and other resources in libraries offer windows into different cultures, experiences, and ways of
+        thinking. This broadens kids\' understanding of the world and promotes empathy and intercultural
+        awareness.
+        ]]>
+    </string>
+    <string name="avenue_central_park">The Avenue at Central Park</string>
+    <string name="avenue_central_park_content"><![CDATA[
+        The Avenue at Central Park shimmers like a mirage on the edge of an emerald oasis. Sun-dappled leaves
+        dance against a backdrop of glass and steel, their reflections mirrored in the polished granite walkway
+        that stretches beneath your feet. Lush greenery spills from planter boxes, cascading down like emerald
+        curtains, weaving magic into the air.
+        <br><br>
+        The air itself hums with a gentle symphony. Birdsong mingles with the melodic murmur of conversation,
+        punctuated by the rhythmic click of heels and the excited squeals of children chasing imaginary
+        butterflies. Laughter tinkles like wind chimes, carried on the warm summer breeze.
+        <br><br>
+        This is The Avenue at Central Park, a haven for dreamers and wanderers, a place where the magic of the
+        city meets the serenity of nature. It\'s a canvas waiting to be painted with your own story, a symphony
+        waiting for your heart to join the chorus. So step inside, lose yourself in the melody, and let the
+        magic unfold.
+        ]]>
+    </string>
+    <string name="hilltop_emporium">Hilltop Emporium</string>
+    <string name="hilltop_emporium_content"><![CDATA[
+        Ideal for a centre perched on a hill, with commanding views and a sense of exclusivity.
+        <br><br>
+        A hidden nook harbors a tinkerer\'s workshop, where cogs and gears whisper secrets of
+        impossible contraptions.
+        <br><br>
+        Sunlight streams through stained glass windows, casting kaleidoscopic shadows that dance
+        on worn wooden floors.
+        <br><br>
+        The Hilltop Emporium is more than just a shopping centre; it\'s a portal to another time, a
+        sanctuary for the curious soul. It\'s a place where treasures both tangible and intangible
+        await, where you might stumble upon a forgotten heirloom or a whispered wish upon the wind.
+        So step into its embrace, let the stories swirl around you, and discover the magic that
+        awaits in the Hilltop Emporium.
+        ]]>
+    </string>
+    <string name="harbor_point_marketplace">Harbor Point marketplace</string>
+    <string name="harbor_point_marketplace_content"><![CDATA[
+        Salt-kissed breeze whispers through masts swaying gently against the azure sky. Sunlight dances on waves
+        lapping against weathered pilings, painting playful patterns on the cobblestones of Harbor Point
+        Marketplace.
+        <br><br>
+        Within the market, weathered wood beams groan under the weight of stories and laughter. Stall displays
+        burst with vibrant hues: sun-ripened fruits like jewels in woven baskets, spices in rainbow powders,
+        and seashells whispering tales of ocean adventures. Artisans spin yarns into intricate tapestries,
+        while weathered hands carve stories into driftwood treasures.
+        <br><br>
+        This is Harbor Point Marketplace, a haven for salty souls and wanderlust hearts. It\'s a canvas painted
+        with the colors of the sea, a tapestry woven with laughter and stories. So step onto the boardwalk, let
+        the ocean breeze guide you, and discover the magic that awaits in Harbor Point Marketplace.
+        ]]>
+    </string>
+    <string name="cloud_cuckoo_park">Cloud Cuckoo City Park</string>
+    <string name="cloud_cuckoo_park_content"><![CDATA[
+        Ah, Cloud Cuckoo City Park – where gravity takes a vacation and imagination soars higher than a kite
+        with a rocket strapped to its tail. This isn\'t your average park with swings and sprinklers, no sir.
+        Here, houses perch on stilts like giant birds, their windows winking like stars against the cerulean
+        canvas. Rainbow-hued walkways weave through the clouds, each step a bouncy adventure on a marshmallowy
+        path.
+        <br><br>
+        Forget pigeons and squirrels; the park teems with creatures straight out of a Dr. Seuss fever dream.
+        Grinning clouds puff smoke rings, playful pixies flit between dandelion fluff, and chatty chimeras with
+        butterfly wings and lion paws laze in sunbeams. Music floats on the breeze, a whimsical blend of bird
+        song and wind chimes tinkling like laughter.
+        <br><br>
+        And the stories! Every corner whispers tales of daring sky-pirates, mischievous cloud-weavers, and wise
+        old owls who guard the secrets of the stars. It\'s a place where dreams take root and blossom, where
+        children build castles from moonbeams and grown-ups rediscover the joy of a good ol\' fashioned cloud
+        nap.
+        <br><br>
+        So, pack your sense of wonder, grab your stardust sneakers, and head for Cloud Cuckoo City Park. Just
+        remember, mind your step – you never know what fantastical friend you might stumble upon next!
+        ]]>
+    </string>
+    <string name="starlight_soiree">The Starlight Soiree</string>
+    <string name="starlight_soiree_content"><![CDATA[
+        Imagine a twilight sky streaked with lavender and gold, casting an ethereal glow upon a whimsical
+        landscape. Instead of rides and tents, fantastical creatures roam freely. A towering spider spun a web
+        of shimmering silk, its threads aglow with bioluminescent fireflies. A family of gnomes tinkers with
+        clockwork contraptions, their tiny hammers tapping like a metronome. In the distance, a majestic griffin
+        soars, its feathers shimmering with every beat of its wings.
+        <br><br>
+        The air thrums with music unlike anything heard on Earth. Talking trees whisper melodies in the breeze,
+        their leaves rustling like ancient parchments. Flowers chime like crystal bells, and pixies strum
+        miniature lutes, their tiny fingers creating a symphony of light and sound.
+        <br><br>
+        But the true magic lies in the games and attractions. Step into a tent woven from moonbeams and find
+        yourself dancing with constellations. Or take a ride on a cloud carousel, its wispy steeds carrying you
+        through stardust swirls. In a mirror pond, gaze into your reflection and glimpse alternate versions of
+        yourself, each a spark of possibility in the multiverse.
+        <br><br>
+        No carnival is complete without treats, and this one is no exception. Savor moonbeam pastries that melt
+        in your mouth, leaving a trail of stardust on your tongue. Sip on dandelion dew that bubbles with
+        laughter and cures any frown. Or indulge in a slice of dragonberry pie, its crimson filling tingling
+        with firefly embers.
+        ]]>
+    </string>
+    <string name="wind_harp_woods">Wind Harp Woods</string>
+    <string name="wind_harp_woods_content"><![CDATA[
+        Stepping into Wind Harp Woods is like entering a symphony composed by nature itself. Sunlight filters
+        through ancient boughs, dappling the mossy floor in emerald and gold. Whispers of wind rustle through
+        the leaves, sending ripples of sound that shimmer like silk scarves in the air. It\'s a gentle rhythm,
+        sometimes a playful trill, other times a mournful sigh, weaving its way through the towering trees.
+        <br><br>
+        The further you delve into the woods, the deeper the music sinks into your bones. It becomes a tangible
+        presence, wrapping around you like a cloak of velvet. It soothes troubled thoughts, awakens slumbering
+        dreams, and whispers ancient secrets into your ear. It\'s a language older than words, understood by the
+        heart rather than the mind.
+        <br><br>
+        Wind Harp Woods is more than just a beautiful place; it\'s a sanctuary. It\'s a place where you can escape
+        the cacophony of the world and find solace in the rhythm of nature. It\'s a place to reconnect with your
+        own inner music, to discover the symphony waiting to be played within your soul.
+        ]]>
+    </string>
+</resources>
